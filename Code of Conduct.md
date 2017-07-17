@@ -1,9 +1,10 @@
 # Code of Conduct
 
-**1. Definition**
+### 1. Definition
+
 A code of conduct is a document that establishes expectations for behavior and participation in a project, in this case all interactions related to the LA-100 class. A code of conduct supports healthy, constructive community behavior. (https://opensource.guide/code-of-conduct/)
 
-2. Purpose
+### 2. Purpose
 
 A primary goal of Western New England University is to be inclusive to the largest number of community members, with the most varied and diverse backgrounds possible. As such, we are committed to providing a friendly, safe and welcoming environment for all, regardless of gender, sexual orientation, ability, ethnicity, socioeconomic status, and religion (or lack thereof).
 
@@ -11,12 +12,12 @@ This code of conduct outlines expectations for all those who participate in LA-1
 
 We invite all those who participate in LA-100 to help us create safe and positive experiences for everyone.
 
-3. LA-100 Citizenship
+### 3. LA-100 Citizenship
 
 A supplemental goal of this Code of Conduct is to increase WNE citizenship by encouraging participants to recognize and strengthen the relationships between our actions and their effects on our community. Communities mirror the societies in which they exist and positive action is essential to counteract the many forms of inequality and abuses of power that exist in society. If you see someone who is making an extra effort to ensure our community is welcoming, friendly, and encourages all participants to contribute to the fullest extent, we want to know.
 <HOW DO WE MAKE THIS VISIBLE?>
 
-4. Expected Behavior
+### 4. Expected Behavior
 
 The following behaviors are expected and requested of all community members:
  * Participate in an authentic and active way both inside and out of class time. In doing so, you contribute to the health and longevity of this community. This includes regular class attendance.
@@ -29,7 +30,7 @@ The following behaviors are expected and requested of all community members:
  * Be mindful of your surroundings and of your fellow participants. Alert community leaders if you notice a dangerous situation, someone in distress, or violations of this Code of Conduct, even if they seem inconsequential.
  * Remember that community event venues may be shared with members of the public; please be respectful to all patrons of these locations.
 
-4.A Expectations of Instructor
+#### 4.A Expectations of Instructor
 
 The instructor should be:
  * Receptive to student concerns
@@ -42,7 +43,7 @@ The instructor should be:
 
 Students are encouraged to think independently and you may openly disagree with the instructor or others in class, but you must respond thoughtfully; do not “get personal.”  You are encouraged to critique, question, or challenge ideas but you are not to attack individuals.
 
-5. Unacceptable Behavior
+### 5. Unacceptable Behavior
 
 The following behaviors are considered harassment and are unacceptable within our community:
 
@@ -59,7 +60,7 @@ The following behaviors are considered harassment and are unacceptable within ou
     Sustained disruption of community events, including talks and presentations.
 A more detailed list of unacceptable behaviors may be found in the Western New England University Student Handbook (http://www1.wne.edu/student-activities/doc/Handbook-Updated.pdf)
 
-6. Consequences of Unacceptable Behavior and Reporting
+### 6. Consequences of Unacceptable Behavior and Reporting
 
 Unacceptable behavior from any community member, including sponsors and those with decision-making authority, will not be tolerated.
 
@@ -69,19 +70,19 @@ If a community member engages in unacceptable behavior, procedures as outlined i
 
 We expect all community participants (students, faculty members, administrators, and guests) to abide by this Code of Conduct in all community venues–online and in-person–as well as in all one-on-one communications pertaining to community business.
 
-7. Late Assignments/Missing In-Class Work
+### 7. Late Assignments/Missing In-Class Work
 <TBD>
 
-8. Absence
+### 8. Absence
 <TBD>
 
-9. Cell Phone in Class
+### 9. Cell Phone in Class
 <TBD>
 
-10. Contact info
+### 10. Contact info
 Heidi Ellis - ellis@wne.edu
 
-11. License and attribution
+### 11. License and attribution
 
 This Code of Conduct is distributed under a Creative Commons Attribution-ShareAlike license.
 
