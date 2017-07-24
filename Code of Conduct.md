@@ -1,5 +1,8 @@
 # Code of Conduct
 
+### 0. Introduction
+Learning is a dynamic activity that involves effort and interaction on the part of all parties involved. All participants in the classroom experience have expectations. In addition, there are two main roles that occur in the classroom: student and instructor.  Note that the individuals that play these roles may change over the course of the term and even within a class meeting. This code of conduct applies to the LA 100 classroom. 
+
 ### 1. Definition
 
 A code of conduct is a document that establishes expectations for behavior and participation in a project, in this case all interactions related to the LA-100 class. A code of conduct supports healthy, constructive community behavior. (https://opensource.guide/code-of-conduct/)
