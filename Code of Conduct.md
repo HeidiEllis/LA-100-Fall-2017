@@ -70,13 +70,13 @@ If a community member engages in unacceptable behavior, procedures as outlined i
 We expect all community participants (students, faculty members, administrators, and guests) to abide by this Code of Conduct in all community venues–online and in-person–as well as in all one-on-one communications pertaining to community business.
 
 ### 7. Late Assignments/Missing In-Class Work
-<TBD>
+TBD
 
 ### 8. Absence
-<TBD>
+TBD
 
 ### 9. Cell Phone in Class
-<TBD>
+TBD
 
 ### 10. Contact info
 Heidi Ellis - ellis@wne.edu
