@@ -78,7 +78,7 @@ TBD
 ### 8. Absence
 TBD
 
-### 9. Cell Phone in Class
+### 9. Distraction
 TBD
 
 ### 10. Contact info
