@@ -78,7 +78,7 @@ TBD
 ### 8. Participation
 TBD
 
-### 9. Attendion
+### 9. Attention
 TBD
 
 ### 10. Contact info
