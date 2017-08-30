@@ -104,7 +104,7 @@ Instructor has no obligation to provide extra support or time for unexcused abse
 
 
 ### 9. Attention
-TBD
+Student's must display attention to the instructer or student talking. The instructer may use her best judgment to determine who is and isn't paying attention.
 
 ### 10. Contact info
 Heidi Ellis - ellis@wne.edu
