@@ -82,7 +82,26 @@ A deliverable is late when it is submitted after the due date and time. Legitima
   2.A 5 points first day, 10 points 2nd day, etc. up to five
 
 ### 8. Participation
-TBD
+Participation is defined as being awake, alert and attentive during class, engaged in the class including raising your hand, doing your work, contributing to group work, sharing thoughts. 
+
+Being absent from class is defined as not here physically or mentally, not here for more than half the class physically.  A legitimate absence includes sickness, family emergency, informed previous committment such as sports or club travel, weather-related reasons.  
+
+Being late means 5-15 minutes is late, after 15 minutes is absent
+ 
+3-20 minutes is late, after 20 minutes is absent
+5-20 minutes is late, after 20- is absent
+after class starting
+
+A legitimate lateness is getting lost, clubs, sports - need warning ahead of time, going over time in another class 
+- <6 total absences and latenesses not including legitimate latenesses
+
+Consequence: one point off final grade for every unexcused absence > 3 
+
+Instructor has no obligation to provide extra support or time for unexcused absences. 
+
+
+
+
 
 ### 9. Attention
 TBD
