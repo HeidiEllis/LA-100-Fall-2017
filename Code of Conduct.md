@@ -104,7 +104,11 @@ Instructor has no obligation to provide extra support or time for unexcused abse
 
 
 ### 9. Attention
-TBD
+Attention is when you are focusing on what is being tought in class and not having your fouces an anything else.
+
+Examples of distraction acceptable would be looking at your phone quickly of sending a message if it is a emergency, if you need to call someone beacuase of a emergency then you can step out of the classroom.
+
+The cost for distraction would be getting a 0 for participation for that class. 
 
 ### 10. Contact info
 Heidi Ellis - ellis@wne.edu
