@@ -74,6 +74,12 @@ We expect all community participants (students, faculty members, administrators,
 
 ### 7. Timeliness
 All members of the LA 100 community are expected to....
+A deliverable is late when it is submitted after the due date and time. Legitimate lateness include approved illness, family emergencies and death, and athlectic events. 
+1. One day grace period and one letter grade per day afterwards
+  1.A limited number of grace days 
+3. One or two grace "assignments".
+2. Each day after it is late, lose five points up to a max of five days. 
+  2.A 5 points first day, 10 points 2nd day, etc. up to five
 
 ### 8. Participation
 TBD
