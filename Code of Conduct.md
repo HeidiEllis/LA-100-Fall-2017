@@ -104,6 +104,7 @@ Instructor has no obligation to provide extra support or time for unexcused abse
 
 
 ### 9. Attention
+Deduction of Karma points if cellphone goes of during class.
 TBD
 
 ### 10. Contact info
