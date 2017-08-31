@@ -104,7 +104,12 @@ Instructor has no obligation to provide extra support or time for unexcused abse
 
 
 ### 9. Attention
-Deduction of Karma points if cellphone goes of during class.
+A distraction is something that is imparing your ability to focus in class.
+Each student should get three official distractions strikes per semester. Music with headphones during class time should be acceptable when granted by professor. 
+A distraction is only acceptable with a valid and legitimate reason behind it.
+A cost for distraction should be a loss of three karma points after the third strike. 
+
+
 TBD
 
 ### 10. Contact info
