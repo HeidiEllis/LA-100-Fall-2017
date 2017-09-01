@@ -104,6 +104,14 @@ Instructor has no obligation to provide extra support or time for unexcused abse
 
 
 ### 9. Attention
+A distraction is something that is imparing your ability to focus in class. 
+Each student should get three official distractions strikes per semester. Distractions include (Walking in late, whispering, etc.)
+Music with headphones during class time should be acceptable when granted by professor. 
+
+A distraction is only acceptable with a valid and legitimate reason behind it.
+
+A cost for distraction should be a loss of three karma points after the third strike. 
+
 Student's must display attention to the instructer or student talking. The instructer may use her best judgment to determine who is and isn't paying attention.
 Attention is when you are focusing on what is being tought in class and not having your fouces an anything else.
 
