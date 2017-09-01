@@ -107,12 +107,19 @@ Instructor has no obligation to provide extra support or time for unexcused abse
 A distraction is something that is imparing your ability to focus in class. 
 Each student should get three official distractions strikes per semester. Distractions include (Walking in late, whispering, etc.)
 Music with headphones during class time should be acceptable when granted by professor. 
+
 A distraction is only acceptable with a valid and legitimate reason behind it.
+
 A cost for distraction should be a loss of three karma points after the third strike. 
 
+Student's must display attention to the instructer or student talking. The instructer may use her best judgment to determine who is and isn't paying attention.
+Attention is when you are focusing on what is being tought in class and not having your fouces an anything else.
 
-TBD
+Examples of distraction acceptable would be looking at your phone quickly of sending a message if it is a emergency, if you need to call someone beacuase of a emergency then you can step out of the classroom.
 
+The cost for distraction would be getting a 0 for participation for that class. 
+
+If student absolutely needs to do something unrelated to class that could be seen as a distraction, they should be allowed to leave class momentarily and take the phone call or whatever is necessary outside of the classroom.
 ### 10. Contact info
 Heidi Ellis - ellis@wne.edu
 
