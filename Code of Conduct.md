@@ -92,7 +92,7 @@ Participation is defined as being awake, alert and attentive during class, engag
 A distraction is something that is imparing your ability to focus in class. 
 Each student should get three official distractions strikes per semester. Distractions include (Walking in late, whispering, etc.)
 Music with headphones during class time should be acceptable when granted by professor. 
-Music should note leak out of the headphones. This is cause for distraction.
+Music should not leak out of the headphones. This is cause for distraction.
 A distraction is only acceptable with a valid and legitimate reason behind it.
 
 A cost for distraction should be a loss of three karma points after the third strike. 
