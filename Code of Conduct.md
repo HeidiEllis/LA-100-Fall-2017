@@ -106,6 +106,8 @@ The cost for distraction would be getting a 0 for participation for that class.
 
 If student absolutely needs to do something unrelated to class that could be seen as a distraction, they should be allowed to leave class momentarily and take the phone call or whatever is necessary outside of the classroom.
 
+I think you should be allowed a total of 3 "strikes" and if you exceed this amount it will result in a loss of credit. Continually getting strikes will take more and more credit off. A strike consists of any action a student does that purposefully prohibits his/her other classmates from learning.
+
 ### 10. Contact info
 Heidi Ellis - ellis@wne.edu
 
