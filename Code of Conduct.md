@@ -82,22 +82,11 @@ A deliverable is late when it is submitted after the due date and time. Legitima
   2.A 5 points first day, 10 points 2nd day, etc. up to five
 
 ### 8. Absence/Participation Policy
-Participation is defined as being awake, alert and attentive during class, engaged in the class including raising your hand, doing your work, contributing to group work, sharing thoughts. 
+Participation is defined as being awake, alert and attentive during class, engaged in the class including raising your hand, doing your work, contributing to group work, and sharing thoughts. Being absent from class is defined as not being present physically or mentally including not here for more than half the class physically. A legitimate absence includes sickness, family emergency, informed previous commitment such as sports or club travel, weather-related reasons.
 
-Being absent from class is defined as not here physically or mentally, not here for more than half the class physically.  A legitimate absence includes sickness, family emergency, informed previous committment such as sports or club travel, weather-related reasons.  
-
-Being late means 5-15 minutes is late, after 15 minutes is absent
- 
-3-20 minutes is late, after 20 minutes is absent
-5-20 minutes is late, after 20- is absent
-after class starting
-
-A legitimate lateness is getting lost, clubs, sports - need warning ahead of time, going over time in another class 
-- <6 total absences and latenesses not including legitimate latenesses
-
-Consequence: one point off final grade for every unexcused absence > 3 
-
-Instructor has no obligation to provide extra support or time for unexcused absences. 
+ * Arriving at class between 3 and 20 minutes after the start of class is considered "late". Arriving 20 minutes or more after the class starts is considered "absent". 
+ * Up to 6 absences are allowed, not including legitimate latenesses. For every unexcused absence after 6, one point will be taken off the final grade. 
+ * The instructor has no obligation to provide extra support or time for unexcused absences. 
 
 ### 9. Disruption Policy
 A distraction is something that is imparing your ability to focus in class. 
@@ -116,6 +105,7 @@ Examples of distraction acceptable would be looking at your phone quickly of sen
 The cost for distraction would be getting a 0 for participation for that class. 
 
 If student absolutely needs to do something unrelated to class that could be seen as a distraction, they should be allowed to leave class momentarily and take the phone call or whatever is necessary outside of the classroom.
+
 ### 10. Contact info
 Heidi Ellis - ellis@wne.edu
 
