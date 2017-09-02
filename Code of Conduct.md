@@ -72,7 +72,7 @@ If a community member engages in unacceptable behavior, procedures as outlined i
 
 We expect all community participants (students, faculty members, administrators, and guests) to abide by this Code of Conduct in all community venues–online and in-person–as well as in all one-on-one communications pertaining to community business.
 
-### 7. Timeliness
+### 7. Late Policy
 All members of the LA 100 community are expected to....
 A deliverable is late when it is submitted after the due date and time. Legitimate lateness include approved illness, family emergencies and death, and athlectic events. 
 1. One day grace period and one letter grade per day afterwards
@@ -81,7 +81,7 @@ A deliverable is late when it is submitted after the due date and time. Legitima
 2. Each day after it is late, lose five points up to a max of five days. 
   2.A 5 points first day, 10 points 2nd day, etc. up to five
 
-### 8. Participation
+### 8. Absence/Participation Policy
 Participation is defined as being awake, alert and attentive during class, engaged in the class including raising your hand, doing your work, contributing to group work, sharing thoughts. 
 
 Being absent from class is defined as not here physically or mentally, not here for more than half the class physically.  A legitimate absence includes sickness, family emergency, informed previous committment such as sports or club travel, weather-related reasons.  
@@ -99,11 +99,7 @@ Consequence: one point off final grade for every unexcused absence > 3
 
 Instructor has no obligation to provide extra support or time for unexcused absences. 
 
-
-
-
-
-### 9. Attention
+### 9. Disruption Policy
 A distraction is something that is imparing your ability to focus in class. 
 Each student should get three official distractions strikes per semester. Distractions include (Walking in late, whispering, etc.)
 Music with headphones during class time should be acceptable when granted by professor. 
