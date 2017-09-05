@@ -73,6 +73,7 @@ If a community member engages in unacceptable behavior, procedures as outlined i
 We expect all community participants (students, faculty members, administrators, and guests) to abide by this Code of Conduct in all community venues–online and in-person–as well as in all one-on-one communications pertaining to community business.
 
 ### 7. Late Policy
+
 All members of the LA 100 community are expected to....
 A deliverable is late when it is submitted after the due date and time. Legitimate lateness include approved illness, family emergencies and death, and athlectic events. 
 1. One day grace period and one letter grade per day afterwards
