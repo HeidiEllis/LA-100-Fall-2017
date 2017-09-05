@@ -110,6 +110,8 @@ I think you should be allowed a total of 3 "strikes" and if you exceed this amou
 
 Distraction is not paying attention to other people (Professors, other students) or making other people not pay attention to the others. Examples including making a sound (whispers, phone's sound, keyboard's typing sounds). To handle it, we must not making any necessary sound: turn off the phone's sound, don't talk to the other while the professor or somebody is talking, etc. I agree with everyone's comments that we should have 3 strikes, after the 3rd strike, we lost the credit. Of course there are some exception like the others already said: when you have an emergency call of text, you should ask the professor to do that, or when you are trying to not pooping or peeing but you cannot, just quietly stand up, whisper to the professor and go out.
 
+A distraction in the classroom is when an event or action grabs someone's attention and prevents them from fully immersing in the classroom. In this setting it would been seen as a student not giving the instructor or fellow students their focus in favor of something else, such as a cellphone or class-unrelated business on a computer. The strike system will be an effective system in warning students of their behavior while also giving them chances to check themselves as well. If there is an emergency call, text, or restroom emergency, leaving the classroom is permissible. Taking a quick glance at a text message is acceptable as long as the student is not focused on the cell phone for more than a few seconds (i.e. opening unrelated apps, messaging multiple people, overall distraction...).
+
 ### 10. Contact info
 Heidi Ellis - ellis@wne.edu
 
