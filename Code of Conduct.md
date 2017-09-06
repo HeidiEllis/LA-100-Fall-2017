@@ -76,13 +76,7 @@ We expect all community participants (students, faculty members, administrators,
 
 A deliverable is late when it is submitted after the due date and time. Legitimate lateness reasons include approved illness, family emergencies and death, and athlectic events. 
 
-If a deliverable is late, the following policy will apply:
-
-1. One day grace period and one letter grade per day afterwards
-  1.A limited number of grace days 
-3. One or two grace "assignments".
-2. Each day after it is late, lose five points up to a max of five days. 
-  2.A 5 points first day, 10 points 2nd day, etc. up to five
+All deliverables have one grace day after the due date. Submissions that come in after the grace day will be docked one grade per day. 
 
 ### 8. Absence/Participation Policy
 Participation is defined as being awake, alert and attentive during class, engaged in the class including raising your hand, doing your work, contributing to group work, and sharing thoughts. Being absent from class is defined as not being present physically or mentally including not here for more than half the class physically. A legitimate absence includes sickness, family emergency, informed previous commitment such as sports or club travel, weather-related reasons.
@@ -92,32 +86,9 @@ Participation is defined as being awake, alert and attentive during class, engag
  * The instructor has no obligation to provide extra support or time for unexcused absences or lateness. 
 
 ### 9. Disruption Policy
-A distraction is something that is imparing your ability to focus in class. 
-Each student should get three official distractions strikes per semester. Distractions include (Walking in late, whispering, etc.)
-Music with headphones during class time should be acceptable when granted by professor. 
-Music should not leak out of the headphones. This is cause for distraction.
-A distraction is only acceptable with a valid and legitimate reason behind it.
+Students should pay attention to the instructor and engage in all classroom activities. Students' focus should be on the activities within the classroom and not on anything else. A  distraction in the classroom is when an event or action grabs someone's attention and prevents them from fully immersing in the classroom. Examples of a distraction include making a sound (whispers, phone's sound, keyboard's typing sounds). In this setting it would been seen as a student not giving the instructor or fellow students their focus in favor of something else, such as a cellphone or class-unrelated business on a computer. Distractions impair students' ability to focus on class. Students with emergencies are allowed to leave class momentarily and take the phone call or whatever is necessary outside of the classroom.
 
-A cost for distraction should be a loss of three karma points after the third strike. 
-
-Student's must display attention to the instructer or student talking. The instructer may use her best judgment to determine who is and isn't paying attention.
-Attention is when you are focusing on what is being tought in class and not having your fouces an anything else.
-
-Examples of distraction acceptable would be looking at your phone quickly of sending a message if it is a emergency, if you need to call someone beacuase of a emergency then you can step out of the classroom.
-
-The cost for distraction would be getting a 0 for participation for that class. 
-
-If student absolutely needs to do something unrelated to class that could be seen as a distraction, they should be allowed to leave class momentarily and take the phone call or whatever is necessary outside of the classroom.
-
-I think you should be allowed a total of 3 "strikes" and if you exceed this amount it will result in a loss of credit. Continually getting strikes will take more and more credit off. A strike consists of any action a student does that purposefully prohibits his/her other classmates from learning.
-
-Distraction is not paying attention to other people (Professors, other students) or making other people not pay attention to the others. Examples including making a sound (whispers, phone's sound, keyboard's typing sounds). To handle it, we must not making any necessary sound: turn off the phone's sound, don't talk to the other while the professor or somebody is talking, etc. I agree with everyone's comments that we should have 3 strikes, after the 3rd strike, we lost the credit. Of course there are some exception like the others already said: when you have an emergency call of text, you should ask the professor to do that, or when you are trying to not pooping or peeing but you cannot, just quietly stand up, whisper to the professor and go out.
-
-A distraction in the classroom is when an event or action grabs someone's attention and prevents them from fully immersing in the classroom. In this setting it would been seen as a student not giving the instructor or fellow students their focus in favor of something else, such as a cellphone or class-unrelated business on a computer. The strike system will be an effective system in warning students of their behavior while also giving them chances to check themselves as well. If there is an emergency call, text, or restroom emergency, leaving the classroom is permissible. Taking a quick glance at a text message is acceptable as long as the student is not focused on the cell phone for more than a few seconds (i.e. opening unrelated apps, messaging multiple people, overall distraction...).
-
-Attention Policy
-A distraction is something that impairs the focus of yourself and your fellow peers in class. For examnple throwing pencils at your peer sitting next to you would not allow you or your fellow students to concetrate on your studies. Other examples include, cell phones, whispering, and other noises. For minor distractions, a simple vocal correction by the professor would be due in-order to retain the focus of the class. For more consitent and severe incidences, the students grade shall be affected in a negative manner by the "strike system" where after 3 incidnces your grade will be negativly impacted. However, students who do not dirstract others shall be rewarded with an increase in grade towards good participation. Some minor distractions are acceptable i.e.- asking a neighbor for help, checking your phone, or leaving to use the restroom.
-Heidi Ellis - ellis@wne.edu
+Each student is allowed three official distractions strikes per semester. After the third strike, students will lose 1 point off their final grade. 
 
 ### 11. License and attribution
 
