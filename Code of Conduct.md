@@ -92,28 +92,11 @@ Participation is defined as being awake, alert and attentive during class, engag
  * The instructor has no obligation to provide extra support or time for unexcused absences or lateness. 
 
 ### 9. Disruption Policy
-A distraction is something that is imparing your ability to focus in class. 
-Each student should get three official distractions strikes per semester. Distractions include (Walking in late, whispering, etc.)
-Music with headphones during class time should be acceptable when granted by professor. 
-Music should not leak out of the headphones. This is cause for distraction.
-A distraction is only acceptable with a valid and legitimate reason behind it.
+Cell phones are only to be used when permitted by the teacher or to quickly look at who messaged/called them.  If it is important or an emergency, they can then proceed to leave the class and handle it in the hallway.  All other uses of the phone must be explained and approved by the teacher ahead of time.
 
-A cost for distraction should be a loss of three karma points after the third strike. 
+All phones and computers must be on silent.  All noise coming from phones or computers must be through headphones, only when permitted by the teacher.
 
-Student's must display attention to the instructer or student talking. The instructer may use her best judgment to determine who is and isn't paying attention.
-Attention is when you are focusing on what is being tought in class and not having your fouces an anything else.
-
-Examples of distraction acceptable would be looking at your phone quickly of sending a message if it is a emergency, if you need to call someone beacuase of a emergency then you can step out of the classroom.
-
-The cost for distraction would be getting a 0 for participation for that class. 
-
-If student absolutely needs to do something unrelated to class that could be seen as a distraction, they should be allowed to leave class momentarily and take the phone call or whatever is necessary outside of the classroom.
-
-I think you should be allowed a total of 3 "strikes" and if you exceed this amount it will result in a loss of credit. Continually getting strikes will take more and more credit off. A strike consists of any action a student does that purposefully prohibits his/her other classmates from learning.
-
-Distraction is not paying attention to other people (Professors, other students) or making other people not pay attention to the others. Examples including making a sound (whispers, phone's sound, keyboard's typing sounds). To handle it, we must not making any necessary sound: turn off the phone's sound, don't talk to the other while the professor or somebody is talking, etc. I agree with everyone's comments that we should have 3 strikes, after the 3rd strike, we lost the credit. Of course there are some exception like the others already said: when you have an emergency call of text, you should ask the professor to do that, or when you are trying to not pooping or peeing but you cannot, just quietly stand up, whisper to the professor and go out.
-
-A distraction in the classroom is when an event or action grabs someone's attention and prevents them from fully immersing in the classroom. In this setting it would been seen as a student not giving the instructor or fellow students their focus in favor of something else, such as a cellphone or class-unrelated business on a computer. The strike system will be an effective system in warning students of their behavior while also giving them chances to check themselves as well. If there is an emergency call, text, or restroom emergency, leaving the classroom is permissible. Taking a quick glance at a text message is acceptable as long as the student is not focused on the cell phone for more than a few seconds (i.e. opening unrelated apps, messaging multiple people, overall distraction...).
+If a teacher decides that a student is too loud or disruptive in class they can choose to take points off of the students participation grade for the class.  10 points are given to the student to start the semester and they can continue to take away points from the student until they have reached 0.  If it continues to be an issue past 0 points, the teacher can chose to notify an upper level person to handle the student and their future in the class.
 
 ### 10. Contact info
 Heidi Ellis - ellis@wne.edu
