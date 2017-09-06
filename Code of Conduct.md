@@ -115,7 +115,8 @@ Distraction is not paying attention to other people (Professors, other students)
 
 A distraction in the classroom is when an event or action grabs someone's attention and prevents them from fully immersing in the classroom. In this setting it would been seen as a student not giving the instructor or fellow students their focus in favor of something else, such as a cellphone or class-unrelated business on a computer. The strike system will be an effective system in warning students of their behavior while also giving them chances to check themselves as well. If there is an emergency call, text, or restroom emergency, leaving the classroom is permissible. Taking a quick glance at a text message is acceptable as long as the student is not focused on the cell phone for more than a few seconds (i.e. opening unrelated apps, messaging multiple people, overall distraction...).
 
-### 10. Contact info
+Attention Policy
+A distraction is something that impairs the focus of yourself and your fellow peers in class. For examnple throwing pencils at your peer sitting next to you would not allow you or your fellow students to concetrate on your studies. Other examples include, cell phones, whispering, and other noises. For minor distractions, a simple vocal correction by the professor would be due in-order to retain the focus of the class. For more consitent and severe incidences, the students grade shall be affected in a negative manner by the "strike system" where after 3 incidnces your grade will be negativly impacted. However, students who do not dirstract others shall be rewarded with an increase in grade towards good participation. Some minor distractions are acceptable i.e.- asking a neighbor for help, checking your phone, or leaving to use the restroom.
 Heidi Ellis - ellis@wne.edu
 
 ### 11. License and attribution
