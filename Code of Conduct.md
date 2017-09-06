@@ -74,8 +74,10 @@ We expect all community participants (students, faculty members, administrators,
 
 ### 7. Late Policy
 
-All members of the LA 100 community are expected to....
-A deliverable is late when it is submitted after the due date and time. Legitimate lateness include approved illness, family emergencies and death, and athlectic events. 
+A deliverable is late when it is submitted after the due date and time. Legitimate lateness reasons include approved illness, family emergencies and death, and athlectic events. 
+
+If a deliverable is late, the following policy will apply:
+
 1. One day grace period and one letter grade per day afterwards
   1.A limited number of grace days 
 3. One or two grace "assignments".
@@ -86,8 +88,8 @@ A deliverable is late when it is submitted after the due date and time. Legitima
 Participation is defined as being awake, alert and attentive during class, engaged in the class including raising your hand, doing your work, contributing to group work, and sharing thoughts. Being absent from class is defined as not being present physically or mentally including not here for more than half the class physically. A legitimate absence includes sickness, family emergency, informed previous commitment such as sports or club travel, weather-related reasons.
 
  * Arriving at class between 3 and 20 minutes after the start of class is considered "late". Arriving 20 minutes or more after the class starts is considered "absent". 
- * Up to 6 absences are allowed, not including legitimate latenesses. For every unexcused absence after 6, one point will be taken off the final grade. 
- * The instructor has no obligation to provide extra support or time for unexcused absences. 
+ * Up to 6 absences or latenesses are allowed, not including legitimate absence/latenesses. For every unexcused absence or lateness after 6, one point (1%) ill be taken off the final grade. 
+ * The instructor has no obligation to provide extra support or time for unexcused absences or lateness. 
 
 ### 9. Disruption Policy
 A distraction is something that is imparing your ability to focus in class. 
