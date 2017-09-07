@@ -86,9 +86,11 @@ Participation is defined as being awake, alert and attentive during class, engag
  * The instructor has no obligation to provide extra support or time for unexcused absences or lateness. 
 
 ### 9. Disruption Policy
-Students should pay attention to the instructor and engage in all classroom activities. Students' focus should be on the activities within the classroom and not on anything else. A  distraction in the classroom is when an event or action grabs someone's attention and prevents them from fully immersing in the classroom. Examples of a distraction include making a sound (whispers, phone's sound, keyboard's typing sounds). In this setting it would been seen as a student not giving the instructor or fellow students their focus in favor of something else, such as a cellphone or class-unrelated business on a computer. Distractions impair students' ability to focus on class. Students with emergencies are allowed to leave class momentarily and take the phone call or whatever is necessary outside of the classroom.
+Students should pay attention to the instructor and engage in all classroom activities. Students' focus should be on the activities within the classroom and not on anything else. A  distraction in the classroom is when an event or action grabs someone's attention and prevents them from fully immersing in the classroom. Examples of a distraction include making a sound (whispers, phone's sound, keyboard's typing sounds). In this setting it would been seen as a student not giving the instructor or fellow students their focus in favor of something else, such as a cellphone or class-unrelated business on a computer. Distractions impair students' ability to focus on class. Students with emergencies are allowed to leave class momentarily and take the phone call or whatever is necessary outside of the classroom. Students with other valid reasons for distractions such as a disability are not penalized. 
 
 Each student is allowed three official distractions strikes per semester. After the third strike, students will lose 1 point off their final grade. 
+
+
 
 ### 11. License and attribution
 
