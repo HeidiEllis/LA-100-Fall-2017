@@ -18,7 +18,6 @@ We invite all those who participate in LA-100 to help us create safe and positiv
 ### 3. LA-100 Citizenship
 
 A supplemental goal of this Code of Conduct is to increase WNE citizenship by encouraging participants to recognize and strengthen the relationships between our actions and their effects on our community. Communities mirror the societies in which they exist and positive action is essential to counteract the many forms of inequality and abuses of power that exist in society. If you see someone who is making an extra effort to ensure our community is welcoming, friendly, and encourages all participants to contribute to the fullest extent, we want to know.
-<HOW DO WE MAKE THIS VISIBLE?>
 
 ### 4. Expected Behavior
 
@@ -76,7 +75,7 @@ We expect all community participants (students, faculty members, administrators,
 
 A deliverable is late when it is submitted after the due date and time. Legitimate lateness reasons include approved illness, family emergencies and death, and athlectic events. 
 
-All deliverables have one grace day after the due date. Submissions that come in after the grace day will be docked one grade per day. 
+All deliverables have one grace day after the due date. Submissions that come in after the grace day will be docked one grade per day. **Deliverables that will be discussed in class have no late days allowed.** 
 
 ### 8. Absence/Participation Policy
 Participation is defined as being awake, alert and attentive during class, engaged in the class including raising your hand, doing your work, contributing to group work, and sharing thoughts. Being absent from class is defined as not being present physically or mentally including not here for more than half the class physically. A legitimate absence includes sickness, family emergency, informed previous commitment such as sports or club travel, weather-related reasons.
