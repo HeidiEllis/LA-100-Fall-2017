@@ -6,6 +6,12 @@
 
 ## Description
 
+Lecture - presentation followed by quiz, 2-3 people
+
+Multiple speakers with connected topics where one talk leads into the next - related presentations
+
+Jeopardy - 3-4 people, each person has category, clues would be facts/history, the person responsible for the topic would expand on the clue. 
+
 Classroom activity - teaching activity  - indivisuals create their won activity or groups. 
 
 Debate Classroom debate, or people on a topic, 6 debates on six tpics with 2-3 people per team,  larger groups , have audience take notes and ask questions, have audience assess, audience question. 
