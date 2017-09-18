@@ -6,38 +6,6 @@
 
 ## Description
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Classroom activity - teaching activity  - indivisuals create their won activity or groups. 
 
 Debate Classroom debate, or people on a topic, 6 debates on six tpics with 2-3 people per team,  larger groups , have audience take notes and ask questions, have audience assess, audience question. 
