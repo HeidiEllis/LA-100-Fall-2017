@@ -6,7 +6,7 @@
 
 ## Description
 
-Lecture - presentation followed by quiz, 2-3 people
+Lecture - presentation followed by quiz, 2-3 people - cahoot quiz 
 
 Multiple speakers with connected topics where one talk leads into the next - related presentations
 
