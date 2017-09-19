@@ -6,23 +6,17 @@
 
 ## Description
 
-Lecture - presentation followed by quiz, 2-3 people - cahoot quiz 
+Lecture - 2-3 people create and deliver a presentation followed by quiz. Quiz results displayed on the board interactively.
 
-Multiple speakers with connected topics where one talk leads into the next - related presentations
+Individual, related presentations. Multiple speakers with connected topics where one talk leads into the next. 
 
-Jeopardy - 3-4 people, each person has category, clues would be facts/history, the person responsible for the topic would expand on the clue. 
+Jeopardy - 3-4 people, one person per category. Clues would be facts about the open source topic. The person responsible for the topic would introduce the topic, expand on each clue, and conclude the topic at the end. 
 
-Classroom activity - teaching activity  - indivisuals create their won activity or groups. 
+Classroom debate - 6 debates on six topics with 2-3 people per team. Audience takes notes, asks questions, and assess performance. 
 
-Debate Classroom debate, or people on a topic, 6 debates on six tpics with 2-3 people per team,  larger groups , have audience take notes and ask questions, have audience assess, audience question. 
+Movie - 3-4 people,  1 or 2 topics per movie, Choose a story that explains the point. Could use till images with narration. 
 
-M:ovie - Small teams 3-4 people,  1 or 2 topics per movie, Choose a story that explains the point. Still images with narration, 
-
-Socratic seminar - Similar to fishbowl. One inside group has discussion question, outside group grades. 
-
-Fishbowl - reearch a topic and folks on the outside assess what people do on the inside. Similar to a debate.  Uses peer grading. 
-
-
+I eliminated Socratic Seminar and Fishbowl and I could find no way to assess these approaches based on the rubrics.
 
 ## Deliverable
 
