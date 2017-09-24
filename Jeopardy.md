@@ -4,11 +4,13 @@
 **Introduction:** Jeopardy is reported to be America's favorite game show. It was created by Merv Griffin in 1964.  
 The show uses a quiz format where contestants are presented with clues in the form of answers and must create a 
 question that corresponds with the answer.  The Jeopardy board contains five columns and six rows of increasingly 
-difficult clues as shown below:
+difficult clues as shown here:
 [Jeopardy Board](https://wheelgenius.deviantart.com/art/Jeopardy-board-1986-330200527)
+
 The game is played in three rounds with the host reading the questions and three contestants vying to state 
 the question that corresponds to the answer. 
-Assignment: As a class, we will play only the initial round of three different games of jeopardy on three 
+
+**Assignment:** As a class, we will play only the initial round of three different games of jeopardy on three 
 different days.  Each jeopardy board will contain either 4 or 5 columns and five rows.  Each column will 
 represent a student topic related to open source.  In order to fulfill the rubrics for Oral Communication, we 
 will modify how the game is played as follows:
