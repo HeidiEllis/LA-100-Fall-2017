@@ -59,7 +59,7 @@ Open Law - Charlie, Abby, Matt
 
 Open Business - JR, Antonio
 
-Open Education - Adam, Griffin, David
+Open Education - Adam, Griffin, David, DaeDae
 
 Open Leadership - Kyle, Nicole, Dan, Tommy 
 
