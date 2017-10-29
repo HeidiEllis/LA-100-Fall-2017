@@ -36,9 +36,9 @@ is encouraged and the instructor and FSAs will note such participation.
 **Deliverable:** You must hand in your notes that cover:
 * Introduction - This should be a summary of your introduction of your topic. 1/2 - 1 page. 
 * Five answers and questions with a brief explanation as to how they are logically connected. Be sure to clearly identify:
-** The "answer"
-** The corresponding question
-** A few sentences explaining the answer/question and showing how the question is logically connected to either the introduction or to the previous answer/question. 
+   * The "answer"
+   * The corresponding question
+   * A few sentences explaining the answer/question and showing how the question is logically connected to either the introduction or to the previous answer/question. 
 * Conclusion - This should be a summary of your conclusion. 1/2-1 page 
 * Times New Roman, 12 point font, include a cover page and submit a single document. 
 
