@@ -34,9 +34,13 @@ that topic, call on an audience member to respond to each, and then present the 
 is encouraged and the instructor and FSAs will note such participation. 
 
 **Deliverable:** You must hand in your notes that cover:
-* Introduction
-* Five answers and questions with a brief explanation as to how they are logically connected
-* Conclusion
+* Introduction - This should be a summary of your introduction of your topic. 1/2 - 1 page. 
+* Five answers and questions with a brief explanation as to how they are logically connected. Be sure to clearly identify:
+** The "answer"
+** The corresponding question
+** A few sentences explaining the answer/question and showing how the question is logically connected to either the introduction or to the previous answer/question. 
+* Conclusion - This should be a summary of your conclusion. 1/2-1 page 
+* Times New Roman, 12 point font, include a cover page and submit a single document. 
 
 Note that you will be assessed based on the WNE Oral Communication Rubrics: https://www1.wne.edu/academic-affairs/assessment/doc/competencies-and-rubrics/oral-communication.pdf
 Topics and students are shown below. You may change your topic up until October 31st. If you choose to change your topic, follow the instructions at the end of this assignment. I will form students and topics into jeopary "teams" October 31st and assign each team to a date. Each team will be responsible for forming the "answers" for their game. 
