@@ -45,7 +45,7 @@ is encouraged and the instructor and FSAs will note such participation.
 Note that you will be assessed based on the WNE Oral Communication Rubrics: https://www1.wne.edu/academic-affairs/assessment/doc/competencies-and-rubrics/oral-communication.pdf
 Topics and students are shown below. You may change your topic up until October 31st. If you choose to change your topic, follow the instructions at the end of this assignment. I will form students and topics into jeopary "teams" October 31st and assign each team to a date. Each team will be responsible for forming the "answers" for their game. 
 
-History of Open Source - John, Diane, Antonio
+History of Open Source - John, Diane, Antonio, Mark
 
 Open Source Culture - Tuan, Sean, Thomas, Bao
 
@@ -53,7 +53,7 @@ Favorite Open Source Community - Alex
 
 Favorite Open Source Leader 
 
-Personal Experience with Open Source - Mark, Bader
+Personal Experience with Open Source - Bader
 
 Open Data - Adi, Chris, Kevin, Ryan
 
