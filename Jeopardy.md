@@ -47,13 +47,13 @@ Topics and students are shown below. You may change your topic up until October 
 
 History of Open Source - John, Diane, Antonio
 
-Open Source Culture - Tuan, Sean, Thomas, Bao
+Open Source Culture - Tuan, Sean, Thomas, Bao, Mark
 
 Favorite Open Source Community - Alex
 
 Favorite Open Source Leader 
 
-Personal Experience with Open Source - Mark, Bader
+Personal Experience with Open Source - Bader
 
 Open Data - Adi, Chris, Kevin, Ryan
 
